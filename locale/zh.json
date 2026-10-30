@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "title": "会话总览",
+    "description": "把全部工作区里的会话汇总成一份可搜索、可排序的列表，并在侧栏提供一个入口。"
+  },
+  "panel": "会话总览",
+  "title": "全部会话",
+  "count": "共 {n} 个会话",
+  "search.placeholder": "搜索标题、工作区或路径",
+  "search.clear": "清除搜索",
+  "sort.label": "排序",
+  "sort.recent": "最近活动",
+  "sort.workspace": "按工作区",
+  "sort.title": "按标题",
+  "filter.running": "运行中",
+  "filter.archived": "含已归档",
+  "untitled": "未命名",
+  "ungrouped": "未归入工作区",
+  "archived": "已归档",
+  "pinned": "固定",
+  "time.now": "刚刚",
+  "time.min": "{n} 分钟前",
+  "time.hour": "{n} 小时前",
+  "time.day": "{n} 天前",
+  "time.date": "{y}-{m}-{d}",
+  "empty": "还没有任何会话",
+  "empty.search": "没有符合筛选条件的会话",
+  "loading": "正在载入会话…",
+  "more": "显示更多（还剩 {n} 个）",
+  "open": "打开会话：{title}"
+}

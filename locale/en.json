@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "title": "Session Hub",
+    "description": "One searchable, sortable list of every Session across every Workspace, with a sidebar entry that opens it."
+  },
+  "panel": "All sessions",
+  "title": "All sessions",
+  "count": "{n} sessions",
+  "search.placeholder": "Search title, workspace, or path",
+  "search.clear": "Clear search",
+  "sort.label": "Sort",
+  "sort.recent": "Recent activity",
+  "sort.workspace": "By workspace",
+  "sort.title": "By title",
+  "filter.running": "Running",
+  "filter.archived": "Include archived",
+  "untitled": "Untitled",
+  "ungrouped": "No workspace",
+  "archived": "Archived",
+  "pinned": "Pinned",
+  "time.now": "just now",
+  "time.min": "{n} min ago",
+  "time.hour": "{n} h ago",
+  "time.day": "{n} d ago",
+  "time.date": "{y}-{m}-{d}",
+  "empty": "No sessions yet",
+  "empty.search": "No session matches this filter",
+  "loading": "Loading sessions…",
+  "more": "Show more ({n} left)",
+  "open": "Open session: {title}"
+}
